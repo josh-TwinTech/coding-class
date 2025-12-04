@@ -1,0 +1,25 @@
+.option{
+    background-color: ;
+    color: green;
+    margin-left: 45%;
+    margin-top: 10%;
+    width: 200px;
+    height: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: brown;
+    
+}
+body{
+    background-color: gray;
+    
+}
+.name{
+    color:blue;
+    text-align: center;
+}
+.null{
+    color: red;
+}
+p{
+    text-align: center;
+}
